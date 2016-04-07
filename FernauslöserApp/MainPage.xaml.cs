@@ -41,7 +41,7 @@ namespace FernauslöserApp
         private void fillListBox()
         {
             //die erste zahl existiert schon, damit es nicht leer ist
-            for (int i = 2; i <= 1000; i++)
+            for (int i = 2; i <= 100; i++)
             {
                 listBoxZahlen.Items.Add(i);
             }

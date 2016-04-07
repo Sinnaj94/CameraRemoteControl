@@ -133,9 +133,11 @@
     <Content Include="camera.png" />
     <Content Include="icons\camera.png" />
     <Content Include="icons\play.png" />
+    <Content Include="images\Lenses.jpg" />
     <Content Include="sound\2s.aiff" />
     <Content Include="sound\2s.mp3" />
     <Content Include="sound\2s.wav" />
+    <Content Include="sound\actualclick.wav" />
     <Content Include="sound\lb.mp3" />
     <Content Include="sound\rl.aiff" />
     <Content Include="sound\rl.mp3" />
